@@ -1,0 +1,20 @@
+/* Home.css */
+
+.home-container {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.home-container h2 {
+  color: #3498db;
+}
+
+.home-container p {
+  color: #333;
+  margin: 10px 0;
+}

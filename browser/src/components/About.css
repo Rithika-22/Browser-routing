@@ -1,0 +1,45 @@
+/* Products.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #3498db;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+
+.me {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.about-me-container {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.about-me-container h2 {
+  color: #3498db;
+  text-align: center;
+}
+
+.about-me-details p {
+  color: #333;
+  margin: 5px 0;
+}
+
+.about-me-details p strong {
+  font-weight: bold;
+}
+
+.about-me-details p:hover {
+  color: #3498db;
+  cursor: pointer;
+}
